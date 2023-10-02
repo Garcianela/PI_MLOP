@@ -74,11 +74,11 @@ Es importante destacar que, en la creación del modelo, se procedió a eliminar 
 Para acceder a la API, utiliza los siete endpoints diferentes disponibles para obtener información y realizar consultas sobre videojuegos. Las descripciones en cada una de estas funciones te orientarán en cómo ingresar los datos correspondientes.
 
 <p align="center">
-  <img src="../src/API.png" alt="api">
+  <img src="/src/API.png" alt="api">
 </p>
 
 <p align="center">
-  <img src="../src/endpoints_1.png" alt="api">
+  <img src="/src/endpoints_1.png" alt="api">
 </p>
 
 ## Requerimientos
