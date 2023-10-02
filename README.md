@@ -57,7 +57,7 @@ En las bases de datos generadas se cuenta con las siguientes columnas:
 
 Es importante destacar que, en la creación del modelo, se procedió a eliminar los títulos duplicados de los videos juegos con el objetivo de optimizar los recursos computacionales."
 
-**Nota:** Para acceder utilizados para las funciones y el modelo puede ingresar al siguiente enlace de Google Drive: [Enlace a los notebook](https://drive.google.com/drive/folders/1bjlYIj3bG8TBVJ76sSGUjB6ziQDQ2-kN?usp=drive_link)
+**Nota:** Para acceder a los notebook utilizados para las funciones y el modelo puede ingresar al siguiente enlace de Google Drive: [Enlace a los notebook](https://drive.google.com/drive/folders/1bjlYIj3bG8TBVJ76sSGUjB6ziQDQ2-kN?usp=drive_link)
 
 ## Estructura del Repositorio
 
