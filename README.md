@@ -1,10 +1,8 @@
 # Proyecto Individual N° 1 - Machine Learning Operations (MLOps)
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png" alt="Proceso">
 </p>
-
 
 
 ## Introducción
@@ -29,6 +27,7 @@ En esta fase, se ejecutan múltiples acciones para el manejo de los datos, que i
 ### Carga
 
 Finalmente, se crea una variedad de conjuntos de datos destinados a diversos puntos finales de la API, y estos se almacenan en archivos CSV para su uso posterior.
+
 
 ## Diccionario de Datos
 
@@ -74,6 +73,14 @@ Es importante destacar que, en la creación del modelo, se procedió a eliminar 
 
 Para acceder a la API, utiliza los siete endpoints diferentes disponibles para obtener información y realizar consultas sobre videojuegos. Las descripciones en cada una de estas funciones te orientarán en cómo ingresar los datos correspondientes.
 
+<p align="center">
+  <img src="../src/API.png" alt="api">
+</p>
+
+<p align="center">
+  <img src="../src/endpoints_1.png" alt="api">
+</p>
+
 ## Requerimientos
 
 Asegúrate de tener instalado lo siguiente:
@@ -82,8 +89,14 @@ Asegúrate de tener instalado lo siguiente:
 - Scikit-Learn
 - Pandas
 - FastAPI
+- Uvicorn
+- Pydantic
 - Render ([Enlace a Render](https://render.com/))
 
 ## Conclusiones
 
-En resumen, este proyecto nos ha permitido explorar a fondo el rol en evolución del Data Scientist, y hemos adquirido una comprensión profunda de las técnicas de gestión de datos, análisis exploratorio y la creación de sistemas de recomendación basados en machine learning. Hemos utilizado una base de datos de una plataforma multinacional de videojuegos para desvelar valiosos patrones de comportamiento de los usuarios. A lo largo del ciclo de desarrollo, hemos documentado meticulosamente nuestras acciones y explicado nuestras decisiones en la implementación del modelo. Finalmente, al desplegar el proyecto como una API en la nube, hemos garantizado la accesibilidad y utilidad de nuestros resultados. En conjunto, esta experiencia nos ha proporcionado conocimientos sólidos en
+En resumen, este proyecto nos ha permitido explorar a fondo el rol en evolución del Data Scientist, y hemos adquirido una comprensión profunda de las técnicas de gestión de datos, análisis exploratorio y la creación de sistemas de recomendación basados en machine learning. Hemos utilizado una base de datos de una plataforma multinacional de videojuegos para desvelar valiosos patrones de comportamiento de los usuarios. A lo largo del ciclo de desarrollo, hemos documentado meticulosamente nuestras acciones y explicado nuestras decisiones en la implementación del modelo. Finalmente, al desplegar el proyecto como una API en la nube, hemos garantizado la accesibilidad y utilidad de nuestros resultados. En conjunto, esta experiencia nos ha proporcionado conocimientos sólidos en el manejo y análisis de datos en el contexto de las plataformas de entretenimiento digital, así como en la implementación exitosa de soluciones en la nube.
+
+
+**Elaborado por:** Marianela Garcia  
+**Correo Electrónico:** [garciagnela@gmail.com](mailto:garciagnela@gmail.com)
