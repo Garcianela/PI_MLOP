@@ -81,6 +81,9 @@ Para acceder a la API, utiliza los siete endpoints diferentes disponibles para o
   <img src="/src/endpoints_1.png" alt="api">
 </p>
 
+([Enlace a API](https://pi-mlop-api.onrender.com))
+
+
 ## Requerimientos
 
 Asegúrate de tener instalado lo siguiente:
